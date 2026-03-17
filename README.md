@@ -1,12 +1,14 @@
-# ⚛️ React Learning Project - Modern Era (2026)
+# ⚛️ React Learning Project - Modern Era (2026) & "The Revenge Project"
 
-This repository contains the source code and progress of my React fundamental journey. While the reference tutorial is well-known, this project has been upgraded to the **2026 Tech Stack** to ensure compatibility with modern standards.
+🚀 **Live Demo:** [react-learn-project-programmingwith.vercel.app](https://react-learn-project-programmingwith.vercel.app/)
+
+This repository contains the source code and progress of my React fundamental journey. While the reference tutorial is well-known, this project has been upgraded to the **2026 Tech Stack** to ensure compatibility with modern standards, culminating in a fully functional Game Discovery Dashboard!
 
 ## ⚠️ CRITICAL WARNING: READ BEFORE PROCEEDING
 
 > [CAUTION]
 >
-> **FREEMIUM ALERT:** The video tutorial associated with this repository is a **1-hour "intro"** designed to market a full **8-hour paid course** (approx. $100).
+> **FREEMIUM ALERT:** The video tutorial associated with the foundation of this repository is a **1-hour "intro"** designed to market a full **8-hour paid course** (approx. $100).
 >
 > **Recommendation:** If you are looking for a truly free, end-to-end comprehensive course without a "paywall" appearing midway, it is **STRONGLY RECOMMENDED** to use other resources like _FreeCodeCamp_, _The Net Ninja_, or the official _React.dev_ documentation. Only proceed with this specific video if you are okay with it being an incomplete "teaser."
 
@@ -20,6 +22,7 @@ Even though the tutorial uses older versions, this repo is built using the **Top
 - **React 19+**
 - **TypeScript** (For robust, type-safe code)
 - **React Compiler** (Automated performance optimization; no more manual `useMemo` or `useCallback` clutter).
+- **Tailwind CSS & React Router DOM** (For the Dashboard UI)
 
 ---
 
@@ -60,7 +63,7 @@ Below is the timeline of the "1-Hour Trailer" covered in this repository:
 
 ## 🛠️ Installation & Setup
 
-Make sure your terminal is inside the `react-app` directory:
+Make sure your terminal is inside the `game-web` directory:
 
 1. **Install Dependencies:**
    ```bash
@@ -74,8 +77,16 @@ Make sure your terminal is inside the `react-app` directory:
 
 ---
 
+## 🎨 Credits & Acknowledgements
+
+A massive shoutout to [TailAdmin](https://tailadmin.com/) for the incredible React Tailwind Dashboard template used to construct the UI of this project.
+
+> **Developer Pro Tip:** Honestly, you are much better off spending your money buying a premium, high-quality template from them than dropping $100 on a tutorial course that traps you in a paywall midway. :V
+
+---
+
 ## 💡 Developer Notes
 
 - **The `!` Operator:** In `main.tsx`, the `document.getElementById('root')!` is a TypeScript non-null assertion. It tells TS that the root element definitely exists in our HTML.
 - **The Compiler:** Since we are using the **React Compiler**, the code remains clean. We focus on logic, and the compiler handles the memoization.
-- **Paywall Strategy:** When the video ends and asks for a credit card—just close the tab and start building your own projects! **AWOKWOKWK**.
+- **Paywall Strategy:** When the video ends and asks for a credit card—just close the tab, grab a template, fire up your AI Agents, and start building your own production-grade projects! **AWOKWOKWK**.
