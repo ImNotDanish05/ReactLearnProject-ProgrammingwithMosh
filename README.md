@@ -41,20 +41,20 @@ Below is the timeline of the "1-Hour Trailer" covered in this repository:
 
 ### **Phase 2: Building Components**
 
-- [ ] `00:21:04` Building Components
-- [ ] `00:21:40` Creating a ListGroup Component
-- [ ] `00:27:15` Fragments
-- [ ] `00:29:42` Rendering Lists
-- [ ] `00:33:11` Conditional Rendering
-- [ ] `00:38:36` Handling Events
-- [ ] `00:44:43` Managing State
-- [ ] `00:50:44` Passing Data Via Props
-- [ ] `00:54:42` Passing Functions Via Props
-- [ ] `00:58:27` State Vs Props
-- [ ] `01:00:00` Passing Children
-- [ ] `01:05:04` Inspecting Components with React Dev Tools
-- [ ] `01:07:14` Exercise: Building a Button Component
-- [ ] `01:14:15` Exercise: Showing an Alert
+- [x] `00:21:04` Building Components
+- [x] `00:21:40` Creating a ListGroup Component
+- [x] `00:27:15` Fragments
+- [x] `00:29:42` Rendering Lists
+- [x] `00:33:11` Conditional Rendering
+- [x] `00:38:36` Handling Events
+- [x] `00:44:43` Managing State
+- [x] `00:50:44` Passing Data Via Props
+- [x] `00:54:42` Passing Functions Via Props
+- [x] `00:58:27` State Vs Props
+- [x] `01:00:00` Passing Children
+- [x] `01:05:04` Inspecting Components with React Dev Tools
+- [x] `01:07:14` Exercise: Building a Button Component
+- [x] `01:14:15` Exercise: Showing an Alert
 
 ---
 
